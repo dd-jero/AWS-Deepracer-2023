@@ -14,6 +14,11 @@ Reward Function: 230907_4.py
   - 트랙 각도와 에이전트 YAW 방향의 각도 차이에 대한 보상
   - 기대 완주 스텝, 기대 완주 시간, 트랙 진행율에 따른 보상
   - off track 시 큰 패널티
+  - 
 알집파일: 모델의 로그
+
+온라인 예선 결과
+5위(본선진출), 48.189s
+![image](https://github.com/dd-jero/AWS-Deepracer-2023/assets/107921434/a6904bd5-3e0e-4e3b-80af-fa081cacb839)
 
 
