@@ -21,5 +21,6 @@ Reward Function: 230907_4.py
 온라인 예선 결과
 5위(본선진출), 48.189s
 ![image](https://github.com/dd-jero/AWS-Deepracer-2023/assets/107921434/a6904bd5-3e0e-4e3b-80af-fa081cacb839)
+![ezgif com-optimize](https://github.com/dd-jero/AWS-Deepracer-2023/assets/107921434/cc84d1a5-2b9d-45c7-b2a3-717dbbc81064)
 
 
