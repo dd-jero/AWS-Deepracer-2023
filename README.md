@@ -1,5 +1,6 @@
-# 제3회 대한민국 인공지능 융합 자율주행 경진대회 [AWS DeepRacer Championship]  
-온라인 예선전
+# 제3회 대한민국 인공지능 융합 자율주행 경진대회 
+# [AWS DeepRacer Championship]  
+--온라인 예선전--
 1. Classic Race / Live Race : Classic Race
 2. Choose race type : Time Trial
 3. Name of the racing event : 2023 AWS DeepRacer Championship(ITP)
