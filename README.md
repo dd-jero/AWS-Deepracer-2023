@@ -23,4 +23,7 @@ Reward Function: 230907_4.py
 ![image](https://github.com/dd-jero/AWS-Deepracer-2023/assets/107921434/a6904bd5-3e0e-4e3b-80af-fa081cacb839)  
 ![ezgif com-optimize](https://github.com/dd-jero/AWS-Deepracer-2023/assets/107921434/cc84d1a5-2b9d-45c7-b2a3-717dbbc81064)  
 
+오프라인 본선 결과
+3위(인천광역시장상), 10.250 => 빠르되 완주율 높게
+
 
