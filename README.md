@@ -26,14 +26,17 @@ Reward Function: 230907_4.py
 --오프라인 본선전--
 1. Race: Smile Speedway
 2. Time Trial
-3. 3분동안의 최단 lap time이 기록으로 결정
+3. 3분동안의 최단 lap time이 기록으로 결정 (총 2번)
 
 Reward Function: 230922_1.py
   - 온라인, 오프라인 주행은 약간 다름
   - 완주율 높게 학습해야함.
-  - 
+    
 오프라인 본선 결과
-3위(인천광역시장상), 10.250 => 빠르되 완주율 높게
+1차 시기: 1위
+2차 시기: 3위
+최종: 3위(인천광역시장상), 10.250 => 빠르되 완주율 높게
+![image](https://github.com/dd-jero/AWS-Deepracer-2023/assets/107921434/227749b7-05f7-4895-8492-49a5fa0ae287)
 
 
 
