@@ -36,4 +36,5 @@ Reward Function: 230922_1.py
 1차 시기: 1위  
 2차 시기: 3위  
 최종: 3위(인천광역시장상), 10.250  
+
 ![image](https://github.com/dd-jero/AWS-Deepracer-2023/assets/107921434/227749b7-05f7-4895-8492-49a5fa0ae287)
